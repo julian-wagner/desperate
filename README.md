@@ -14,6 +14,6 @@ Jede Scheune ist mit Objekten ausgestattet. Der Nutzer hat nun die Möglichkeit 
 ![Alt text](https://github.com/moran284/desperate/blob/master/assets/scheune.JPG "Optional title")
 
 Schlussendlich kann der Nutzer entscheiden, welche Scheune seiner Meinung nach abbrennt. Doch was ist wahr und was nicht?
->Was zu nah ist, sieht man nicht.
+
 
 
