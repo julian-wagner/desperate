@@ -1,0 +1,55 @@
+# Blender MTL File: 'Sofa.blend'
+# Material Count: 5
+
+newmtl Material.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.002930 0.005494 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Texturen/wood.jpg
+
+newmtl Material.002
+Ns 900.000000
+Ka 0.943120 0.943120 0.943120
+Kd 0.226584 0.226584 0.226584
+Ks 1.000000 1.000000 1.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl Material.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.077273 0.077273 0.077273
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Texturen/wood.jpg
+
+newmtl Material.004
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 0.699897 0.259692
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Stoff_alt
+Ns 0.000000
+Ka 0.327273 0.327273 0.327273
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Texturen/old-knitted-texture-brown-fabric-background-fabric-texture-brown-background-besthqwallpapers.com-1440x900.jpg

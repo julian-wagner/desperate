@@ -1,0 +1,98 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 18.11.2011 13:39:18
+
+newmtl 11739_horseseat_botleather
+	Ns 33.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.2970 0.2970 0.2970
+	Ke 0.0000 0.0000 0.0000
+	map_Ka 11739_horseseat_botleather_diffuse.jpg
+	map_Kd 11739_horseseat_botleather_diffuse.jpg
+
+newmtl 11739_horseseat_buff_
+	Ns 33.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.2970 0.2970 0.2970
+	Ke 0.0000 0.0000 0.0000
+	map_Ka 11739_horseseat_buff_diffuse.jpg
+	map_Kd 11739_horseseat_buff_diffuse.jpg
+
+newmtl 11739_horseseat_forlegs_
+	Ns 33.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.2970 0.2970 0.2970
+	Ke 0.0000 0.0000 0.0000
+	map_Ka 11739_horseseat_forlegs_diffuse.jpg
+	map_Kd 11739_horseseat_forlegs_diffuse.jpg
+
+newmtl 11739_horseseat_sidestuff
+	Ns 33.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.2970 0.2970 0.2970
+	Ke 0.0000 0.0000 0.0000
+	map_Ka 11739_horseseat_sidestuff_diffuse.jpg
+	map_Kd 11739_horseseat_sidestuff_diffuse.jpg
+
+newmtl 11739_metal
+	Ns 65.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2157 0.2157 0.2157
+	Kd 0.2157 0.2157 0.2157
+	Ks 0.7200 0.7200 0.7200
+	Ke 0.0000 0.0000 0.0000
+
+newmtl 11739_horseseat_seat_
+	Ns 12.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0900 0.0900 0.0900
+	Ke 0.0000 0.0000 0.0000
+	map_Ka 11739_horseseat_seat_diffuse.jpg
+	map_Kd 11739_horseseat_seat_diffuse.jpg
+
+newmtl 11739_horseseat_frontback_
+	Ns 33.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.2970 0.2970 0.2970
+	Ke 0.0000 0.0000 0.0000
+	map_Ka 11739_horseseat_frontback_diffuse.jpg
+	map_Kd 11739_horseseat_frontback_diffuse.jpg
