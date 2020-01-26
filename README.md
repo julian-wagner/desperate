@@ -34,6 +34,6 @@ https://www.julianwagner.ninja/vr/
 * Kathrin Schunn
 * Julian Wagner
 
-Universität zu Köln
-Studiengang Medieninformatik
+Universität zu Köln  
+Studiengang Medieninformatik  
 AM3: Media Transformation – Interaktives Erzählen in VR
