@@ -26,3 +26,14 @@ https://www.julianwagner.ninja/vr/
 * Durchsichtige Wände (Scheune 1)
 * Fehlende Texturen (Auto)
 * Teilweise zu große OBJ-Dateien
+
+## Team
+
+* Katrin Ackermann
+* Jens Lennart Kappes
+* Kathrin Schunn
+* Julian Wagner
+
+Universität zu Köln
+Studiengang Medieninformatik
+AM3: Media Transformation – Interaktives Erzählen in VR
