@@ -26,6 +26,7 @@ https://www.julianwagner.ninja/vr/
 * Durchsichtige Wände (Scheune 1)
 * Fehlende Texturen (Auto)
 * Teilweise zu große OBJ-Dateien
+* VR-Modus bricht im Video ab
 
 ## Team
 
