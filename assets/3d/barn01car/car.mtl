@@ -1,5 +1,5 @@
 # 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
-# File Created: 26.01.2020 20:13:39
+# File Created: 15.03.2020 23:00:32
 
 newmtl moskvitch
 	Ns 9.999999
@@ -15,3 +15,99 @@ newmtl moskvitch
 	map_Ka white.jpg
 	map_Kd white.jpg
 	map_bump Map__64_Normal Bump.jpg
+
+newmtl Standard
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka yellow_light.jpg
+	map_Kd yellow_light.jpg
+
+newmtl Material__21
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka dirty_metal.jpg
+	map_Kd dirty_metal.jpg
+
+newmtl Standard_7
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka black_rubber.jpg
+	map_Kd black_rubber.jpg
+
+newmtl Standard_8
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka PaintedMetal003_2K_Color.jpg
+	map_Kd PaintedMetal003_2K_Color.jpg
+
+newmtl Material__20
+	Ns 65.000000
+	Ni 1.500000
+	d 0.750000
+	Tr 0.250000
+	Tf 0.750000 0.750000 0.750000 
+	illum 2
+	Ka 0.545098 0.250980 0.192157
+	Kd 0.545098 0.250980 0.192157
+	Ks 0.668628 0.211373 0.073333
+	Ke 0.000000 0.000000 0.000000
+
+newmtl Standard_13
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka dirty_metal2.jpg
+	map_Kd dirty_metal2.jpg
+
+newmtl Standard_14
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka back_light.jpg
+	map_Kd back_light.jpg
